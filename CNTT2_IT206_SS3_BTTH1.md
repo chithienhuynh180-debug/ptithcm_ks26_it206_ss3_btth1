@@ -27,15 +27,14 @@ quy tắc đầu ra:
 
 ví dụ 1
 Input:
-Chào anh chị, em là Huỳnh Chí Thiện, em muốn ứng tuyển vị trí Backend Developer. Em có 2 năm kinh nghiệm làm việc với python, sql và fastapi. Em có dùng thêm Python để viết script. Sđt của em là 0387591739, email chithienhuynh180@gmail.com. Em cảm ơn.
+Chào anh chị, em là Thiện Chí, em muốn ứng tuyển vị trí Backend Developer. Em có 2 năm kinh nghiệm làm việc với python, sql và fastapi. Em có dùng thêm Python để viết script. Sđt của em là 0110100111, email ******@gmail.com. Em cảm ơn.
 
 Output:
 | Họ tên | Số điện thoại | Email | Vị trí ứng tuyển | Năm kinh nghiệm | Kỹ năng chính |
 |---|---|---|---|---|---|
-| Huỳnh Chí Thiện | 0387591739 | chithienhuynh180@gmail.com | Backend Developer | 2 | Python, SQL, FastAPI |
+| Thiện Chí | 0110100111 | ******@gmail.com | Backend Developer | 2 | Python, SQL, FastAPI |
 
-[{"name": "Huỳnh Chí Thiện", "phone": "0387591739", "email": "chithienhuynh180@gmail.com", "position": "Backend Developer", "experience_years": 2, "skills": ["Python", "SQL", "FastAPI"]}]
-
+[{"name": "Thiện Chí", "phone": "0110100111", "email": "******@gmail.com", "position": "Backend Developer", "experience_years": 2, "skills": ["Python", "SQL", "FastAPI"]}]
 ví dụ 2 (thiếu thông tin)
 Input:
 Kính gửi phòng nhân sự, tôi là TRẦN THỊ BÍCH LAN, sinh viên năm cuối, muốn ứng tuyển thực tập Data Analyst. Tôi biết Excel, Power BI và SQL. Mail của tôi: lan.tran@example.com
