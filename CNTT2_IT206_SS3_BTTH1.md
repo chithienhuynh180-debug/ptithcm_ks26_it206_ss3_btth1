@@ -27,7 +27,7 @@ quy tắc đầu ra:
 
 ví dụ 1
 Input:
-Chào anh chị, em là nguyễn văn an, em muốn ứng tuyển vị trí Backend Developer. Em có 2 năm kinh nghiệm làm việc với python, sql và fastapi. Em có dùng thêm Python để viết script. Sđt của em là 0912 345 678, email an.nguyen@gmail.com. Em cảm ơn.
+Chào anh chị, em là Huỳnh Chí Thiện, em muốn ứng tuyển vị trí Backend Developer. Em có 2 năm kinh nghiệm làm việc với python, sql và fastapi. Em có dùng thêm Python để viết script. Sđt của em là 0387591739, email chithienhuynh180@gmail.com. Em cảm ơn.
 
 Output:
 | Họ tên | Số điện thoại | Email | Vị trí ứng tuyển | Năm kinh nghiệm | Kỹ năng chính |
